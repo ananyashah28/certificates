@@ -1,4 +1,4 @@
-# Cerificates
+# Certificates
 
 ### 🎓 Artificial Intelligence
 | Certificate Name | Issued By |
