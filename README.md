@@ -11,6 +11,11 @@
 | [**Data Analysis with Pandas and Python**](https://www.udemy.com/certificate/UC-51dbb900-9b61-442f-8ca4-bc589c319ac7/) | Udemy |
 | [**Deloitte Data Analytics Job Simulation**](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_698a106b22bd8ef07d99bcd9_1771080218908_completion_certificate.pdf) | Forage |
 
+### 📊 Data Science
+| Certificate Name | Issued By |
+| :--- | :--- |
+| [**British Airways Data Science Job Simulation**](https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_698a106b22bd8ef07d99bcd9_1771757741801_completion_certificate.pdf) | Forage |
+
 ### 💻 Programming
 | Certificate Name | Issued By |
 | :--- | :--- |
